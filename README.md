@@ -55,7 +55,7 @@ __In my opinion, Approach should be below:-__
 | --------- |
 | __If later down the year, there is a possibility to refactor the application in a way where Infrastructure can be moved to PaaS, On-Prem Automation Tooling can then be replaced with Cloud Automation Tooling.__ |
 
-__In this way, On Prem Automation and Cloud Automation Tooling can co-Exists in Azure Cloud.__
+__In this way, On-Prem Automation and Cloud Automation Tooling can co-Exists in Azure Cloud.__
 
 __Hope You Enjoyed the Session !!!__
 
